@@ -1451,6 +1451,9 @@ a {
   border-radius: 0;
   width: 100%;
 }
+.cid-rT64E22cPe .card2 {
+  border-right: 1px solid #ffffff;
+}
 .cid-rT64E22cPe .card1 {
   border-right: 1px solid #ffffff;
 }
@@ -1458,7 +1461,8 @@ a {
   margin: 0;
 }
 .cid-rT64E22cPe .card-text {
-  color: #7f1933;
+  color: #555555;
+  text-align: center;
 }
 .cid-rT64E22cPe .mbr-text {
   color: #200960;
@@ -1468,6 +1472,9 @@ a {
     border: 0px;
     margin-bottom: 2rem;
   }
+}
+.cid-rT64E22cPe .card-text DIV {
+  text-align: center;
 }
 .cid-s3jCWiEd8v .navbar {
   background: #ffffff;
@@ -1921,6 +1928,12 @@ a {
   .cid-s3jCWiEd8v .menu-logo .navbar-brand {
     margin-left: 5rem;
   }
+}
+#custom-html-j {
+  /* Type valid CSS here */
+}
+#custom-html-j div {
+  padding: 10px 0;
 }
 #custom-html-c div {
   padding: 10px 0;
